@@ -1,3 +1,7 @@
+# Kodzy's build
+If I succeed and not abandon this project, this will be a tdesktop build with plugins support and QoL improvements. 
+
+
 # [Telegram Desktop][telegram_desktop] – Official Messenger
 
 This is the complete source code and the build instructions for the official [Telegram][telegram] messenger desktop client, based on the [Telegram API][telegram_api] and the [MTProto][telegram_proto] secure protocol.
